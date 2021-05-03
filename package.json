@@ -1,0 +1,21 @@
+{
+  "name": "F2-firstHero",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDayFSD/F2-firstHero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickDayFSD/F2-firstHero/issues"
+  },
+  "homepage": "https://github.com/NickDayFSD/F2-firstHero#readme"
+}
